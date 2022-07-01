@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Roboto+Slab:wght@200&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: grey;
+}
+
+.container{
+    background-color: grey;
+    width:100vw;
+    height:203vh;
+}
+.div-1{
+    background-color: orange;
+    width:90vw;
+    height:50vh;
+    text-align:center;
+    margin-bottom: 1ex;
+    margin-top: 5ex;
+  
+    
+}
+.biriyani{
+    width:90vw;
+    height:372px;
+}
+.div-2{
+    background-color: purple;
+    width:90vw;
+    height:50vh;
+    text-align: center;
+    margin-bottom: 1ex;
+    
+}
+.parotta{
+    width:50vw;
+    height:310px;
+    border-style: solid;
+    border-color: white;
+    padding: 1ex;
+}
+.div-3{
+    background-color:teal;
+    width:90vw;
+    height:50vh;
+    text-align: center;
+    margin-bottom: 1ex;
+    
+}
+.chickennoodles{
+    width:50vw;
+    height:310px;
+    border-style: solid;
+    border-color: white;
+    padding: 1ex;
+}
+.div-4{
+    background-color:coral;
+    width:90vw;
+    height:50vh;
+    text-align: center;
+    margin-bottom: 1ex;
+    
+}
+.icecream{
+    width:50vw;
+    height:310px;
+    border-style: solid;
+    border-color: white;
+    padding: 1ex;}
+.heading{
+    position: absolute;
+    color:white;
+    left: 0;
+    right: 0;
+    text-align: center;
+    top: 5cm;
+    font-size: 3em;
+}
